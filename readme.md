@@ -52,7 +52,7 @@ Before using the application, ensure that you have the following prerequisites:
    Clone the repository or download the source code.
 
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/truedeity/FFMpegToHLSUploader.git
    ```
 
 2. **Build the Application**:
